@@ -21,5 +21,6 @@ public class ObjectManager : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
+        //objectMover.StartMovement();
     }
 }
